@@ -1,0 +1,19 @@
+{
+  "name": "koa-error-logger",
+  "version": "1.0.0",
+  "description": "Error logging for the koa framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "koa",
+    "log",
+    "logger",
+    "logging",
+    "error",
+    "errors"
+  ],
+  "author": "Lawrence Wu",
+  "license": "ISC"
+}
